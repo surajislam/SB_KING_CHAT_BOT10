@@ -86,10 +86,10 @@ async def clone_txt(client, message):
         except BaseException as e:
             logging.exception("Error while cloning bot.")
             await mi.edit_text(
-                f"⚠️ <b>Error:</b>\n\n<code>{e}</code>\n\n**Forward this message to @ll_BRANDED_ll for assistance**"
+                f"⚠️ <b>Error:</b>\n\n<code>{e}</code>\n\n**Forward this message to @+9_UQQZn06mU1NWM9 for assistance**"
             )
     else:
-        await message.reply_text("**Provide Bot Token after /clone Command from @Botfather.**\n\n**Example:** `/clone bot token paste here`")
+        await message.reply_text("**SORRY JANAMAN 💕😔 IT'S PAID ..**\n\n**CONTACT:** `@II_SB_SIMPLE_II`")
 
 
 @app.on_message(filters.command("cloned"))
