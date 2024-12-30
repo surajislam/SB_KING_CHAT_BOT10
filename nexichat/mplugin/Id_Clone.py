@@ -70,10 +70,10 @@ async def clone_txt(client, message):
             logging.exception("Error during cloning process.")
             await mi.edit_text(f"**Invalid String Session. Please provide a valid pyrogram string session.:**\n\n`{e}`")
     else:
-        await message.reply_text("**Provide a Pyrogram String Session after the /idclone **\n\n**Example:** `/idclone string session paste here`\n\n**Get a Pyrogram string session from here:-** [Click Here](t.me/STRINGROBOT) ")
+        await message.reply_text("**Provide a Pyrogram String Session after the /idclone **\n\n**Example:** `/idclone string session paste here`\n\n**Get a Pyrogram string session from here:-** [Click Here](t.me/II_SB_SIMPLE_II) ")
 
 
-@Client.on_message(filters.command(["idcloned", "clonedid"]))
+@Client.on_message(filters.command(["sbidcloned", "sbclonedid"]))
 async def list_cloned_sessions(client, message):
     try:
         cloned_bots = idclonebotdb.find()
@@ -96,7 +96,7 @@ async def list_cloned_sessions(client, message):
 
 
 @Client.on_message(
-    filters.command(["delidclone", "delcloneid", "deleteidclone", "removeidclone"])
+    filters.command(["sbdelidclone", "sbdelcloneid", "sbdeleteidclone", "removeidclone"])
 )
 async def delete_cloned_session(client, message):
     try:
