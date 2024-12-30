@@ -22,7 +22,7 @@ clonebotdb = mongodb.clonebotdb
 @app.on_message(filters.command(["clone", "sbhost", "sbdeploy"]))
 async def clone_txt(client, message):
     if len(message.command) > 1:
-        bot_token = message.text.split("/sbclone", 1)[1].strip()
+        bot_token = message.text.split("/sbhost", 1)[1].strip()
         mi = await message.reply_text("Please wait while I check the bot token.")
         try:
             ai = Client(bot_token, API_ID, API_HASH, bot_token=bot_token, plugins=dict(root="nexichat/mplugin"))
