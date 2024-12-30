@@ -69,7 +69,7 @@ async def clone_txt(client, message):
             logging.exception("Error during cloning process.")
             await mi.edit_text(f"**Invalid String Session. Please provide a valid pyrogram string session.:**\n\n**Error:** `{e}`")
     else:
-        await message.reply_text("**Provide a Pyrogram String Session after the /idclone **\n\n**Example:** `/idclone string session paste here`\n\n**Get a Pyrogram string session from here:-** [Click Here](t.me/STRINGROBOT) ")
+        await message.reply_text("**SORRY 😔 BABY 💕 IT'S PAID **\n\n**CONTACT:** `@II_SB_SIMPLE_II`\n\n**2 AND OWNER:-** [Click Here](t.me/MR_BLACK_DEMONKH) ")
 
 
 @app.on_message(filters.command(["idcloned", "clonedid"]))
