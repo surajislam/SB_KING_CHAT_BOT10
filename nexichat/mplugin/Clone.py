@@ -83,10 +83,10 @@ async def clone_txt(client, message):
         except BaseException as e:
             logging.exception("Error while cloning bot.")
             await mi.edit_text(
-                f"⚠️ <b>Error:</b>\n\n<code>{e}</code>\n\n**Forward this message to @ll_BRANDED_ll for assistance**"
+                f"⚠️ <b>Error:</b>\n\n<code>{e}</code>\n\n**Forward this message to @II_SB_SIMPLE_II for assistance**"
             )
     else:
-        await message.reply_text("**Provide Bot Token after /clone Command from @Botfather.**\n\n**Example:** `/clone bot token paste here`")
+        await message.reply_text("** SORRY 💕 BABY IT'S PAID.**\n\n**CONTACT:** `@II_SB_SIMPLE_II `")
 
 
 @Client.on_message(filters.command("cloned"))
@@ -114,7 +114,7 @@ async def list_cloned_bots(client, message):
 async def delete_cloned_bot(client, message):
     try:
         if len(message.command) < 2:
-            await message.reply_text("**Provide Bot Token after /delclone Command from @Botfather.**\n\n**Example:** `/delclone bot token paste here`")
+            await message.reply_text("**SORRY 😔 JANU IT'S PAID .**\n\n**CONTACT:** `@II_SB_SIMPLE_II `")
             return
 
         bot_token = " ".join(message.command[1:])
