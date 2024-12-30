@@ -18,8 +18,8 @@ START = """**
 ๏ ᴜᴘᴛɪᴍᴇ » {}
 
 ╔═════════════════╗
-║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/amritraj78/KING-CHATBOT)  
-║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [˹𝐊ɪɴɢᴅᴏᴍ˼](https://t.me/ll_KINGDOM_ll)                         
+║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://vault.pictures/p/ceacab6a1ed0444499ba0d3f372664a5)  
+║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [𝚰𝛈꯭𝛈꯭𝛐꯭𝛓𝛆꯭𝛈꯭ⲧ꯭¸ʿʾ꯭~𝑺𝑩](https://t.me/II_SB_SIMPLE_II)                         
 ╚═════════════════╝
 **"""
 
@@ -51,7 +51,7 @@ TOOLS_DATA_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /repo ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ ᴛʜᴇ ʙᴏᴛ!
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [˹𝐊ɪɴɢᴅᴏᴍ˼](https://t.me/ll_KINGDOM_ll) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [𝚰𝛈꯭𝛈꯭𝛐꯭𝛓𝛆꯭𝛈꯭ⲧ꯭¸ʿʾ꯭~𝑺𝑩](https://t.me/II_SB_SIMPLE_II) 💞**
 """
 
 CHATBOT_READ = f"""**
@@ -75,10 +75,10 @@ CHATBOT_READ = f"""**
 ──────────────
 ➻ /idclone [ ᴩʏʀᴏɢʀᴀᴍ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ] - ᴛᴏ ᴍᴀᴋᴇ ɪᴅ-ᴄʜᴀᴛʙᴏᴛ.
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [˹𝐊ɪɴɢᴅᴏᴍ˼](https://t.me/ll_KINGDOM_ll) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝚰𝛈꯭𝛈꯭𝛐꯭𝛓𝛆꯭𝛈꯭ⲧ꯭¸ʿʾ꯭~𝑺𝑩](https://t.me/II_SB_SIMPLE_II) 💞**
 """
 
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{nexichat.name}](https://t.me/{nexichat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/amritraj78/KING-CHATBOT)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||📡 ᴍᴀᴅᴇ ʙʏ ➪ [˹𝐊ɪɴɢᴅᴏᴍ˼](https://t.me/ll_KINGDOM_ll) 💞**||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{nexichat.name}](https://t.me/{nexichat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://vault.pictures/p/ceacab6a1ed0444499ba0d3f372664a5)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||📡 ᴍᴀᴅᴇ ʙʏ ➪ [𝚰𝛈꯭𝛈꯭𝛐꯭𝛓𝛆꯭𝛈꯭ⲧ꯭¸ʿʾ꯭~𝑺𝑩](https://t.me/II_SB_SIMPLE_II) 💞**||</b>"
 
 ADMIN_READ = f"sᴏᴏɴ"
 
