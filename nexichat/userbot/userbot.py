@@ -24,8 +24,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("ll_KINGDOM_ll")
-                await self.one.join_chat("ll_IMPERIAL_ll")
+                await self.one.join_chat("ABOUT_NIGHT_SQUAD")
+                await self.one.join_chat("ABOUT_NIGHT_SQUAD")
                
 
             except:
