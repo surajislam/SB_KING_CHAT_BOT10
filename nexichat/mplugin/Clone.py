@@ -16,7 +16,7 @@ cloneownerdb = mongodb.cloneownerdb
 clonebotdb = mongodb.clonebotdb
 
 
-@Client.on_message(filters.command(["clone", "host", "deploy"]))
+@Client.on_message(filters.command(["sbclone", "sbhost", "sbdeploy"]))
 async def clone_txt(client, message):
     if len(message.command) > 1:
         bot_token = message.text.split("/clone", 1)[1].strip()
